@@ -53,3 +53,11 @@ Perks
 - (France) Meal vouchers (Swile)
 - Top of the line health insurance coverage for you and your family
 - Bi-yearly face-to-face company get-together in very nice locations
+
+
+Processus de recrutement (easy as 1, 2, 3... and 4) :
+- Call 1: First contact: CTO (45mn)
+- Call 2: Technical evaluation: senior dev (60mn)
+- Call 3 (optional): Fit and technical evaluation: junior/confirmed dev (45mn)
+- Call 4: Co-founder (30mn)
+- Hiring decision and offer within 72 hours
