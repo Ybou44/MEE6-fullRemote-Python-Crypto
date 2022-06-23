@@ -7,7 +7,7 @@ MEE6’s vision is to become a global brand for community management on Discord 
 We are uniquely positioned to do that - and yet we’re a surprisingly small and flexible company. MEE6 is self-funded since day 1 and very solid financially, which gives us full control over our strategy and frees us from the distractions and contraints of a constant race for fundraising.
 
 
-We are looking for a back end developer with 10+ years of experience to help us develop and scale MEE6.
+We are looking for a back end developer with a solid experience with Python to help us develop and scale MEE6.
 In this job, you will:
 
         Develop and deploy new services, features and improvements, working with the Product Team, fellow back end developers, and with front end developers to interface with their UI
