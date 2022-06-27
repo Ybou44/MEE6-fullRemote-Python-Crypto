@@ -1,6 +1,6 @@
 # MEE6-fullRemote-Python-Crypto
-MEE6 est une société qui se développe TRES vite grace au développement de Bots sur Discord : Il travaille sur plusieurs projets dont une évolution vers l'intégration de crypto.
-100% remote possible, technos très modérnes, bonnes pratiques, Salaire très attractif (entre 60 et 100K en fonction de l'expertise)
+MEE6 est une société qui se développe TRES vite grace au développement de Bots sur Discord : Ils travaillent sur plusieurs projets dont une évolution vers l'intégration de crypto.
+100% remote possible, technos très modernes, bonnes pratiques, salaire très attractif (entre 60 et 100K en fonction de l'expertise)
 
 MEE6’s vision is to become a global brand for community management on Discord and beyond, using our large distribution to develop and market innovative products and services.
 
